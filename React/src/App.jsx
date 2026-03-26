@@ -30,6 +30,7 @@ function App() {
       </section>
 
       <div className="ticks"></div>
+      <div>Himani</div>
 
       <section id="next-steps">
         <div id="docs">
